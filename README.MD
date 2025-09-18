@@ -1,0 +1,26 @@
+Daftar tahapan : 
+- [x]Setup Backend
+- [x] Install Dependency
+- [x] Membuat Server
+- [x] Thunder Client
+- [x] Konsep Middleware
+- [x] Konsep Controller dan Router
+- [x] Setup mongoDB Database
+- [ ] Konsep Schema dan Model
+- [ ] Setup React
+- [ ] Setup Concurrently
+- [ ] Setup Tailwind CSS  
+- [ ] Install FE Dependency
+- [ ] Setup React Router
+- [ ] Header
+- [ ] Dark Mode
+- [ ] Books JSX
+- [ ] Book Detail JSX
+- [ ] Create Modal Component
+- [ ] Setup Store
+- [ ] Modal Slice
+- [ ] Get Books Integration
+- [ ] Konsep Infinite Scrolling
+- [ ] Book Detail Integration
+- [ ] Create & Edit Integration
+- [ ]Delete Book Integration
